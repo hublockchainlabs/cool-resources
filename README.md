@@ -1,6 +1,7 @@
 # Cool Blockchain Resources
 ![HUBL Logo](https://raw.githubusercontent.com/hublockchainlabs/cool-resources/master/hubl.png)
-*Courtesy: [Howard University Blockchain Labs](http://www.hublockchainlab.com)*
+*Courtesy: [Howard University Blockchain Labs](http://www.hublockchainlab.com)*  
+
 Some interesting and informational resources related to blockchain and Web 3.0 technologies!
 ___
 ## Videos
