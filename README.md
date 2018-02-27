@@ -7,6 +7,10 @@ ___
 - Bitcoin 101 -- What is Bitcoin?: [https://youtube.com](https://www.youtube.com/watch?v=Bhe61JaNFLU&index=6&list=PLzctEq7iZD-7-DgJM60)
 - Bitcoin is Punk Rock -- Deal With It!: [https://www.youtube.com](https://www.youtube.com/watch?v=_0mykANOMGQ)
 - Ever Wonder How Bitcoin (and other cryptocurrencies) Actually Work?: [https://www.youtube.com](https://www.youtube.com/watch?v=bBC-nXj3Ng4&t=154s)
+- Bitcoin Lightning Network, Simply Explained!: [https://www.youtube.com](https://www.youtube.com/watch?v=rrr_zPmEiME)
+- Ethereum: the World Computer: [https://www.youtube.com](https://www.youtube.com/watch?v=j23HnORQXvs)
+- Vitalik Buterin (Co-Founder of Ethereum) Explains Ethereum: [https://www.youtube.com](https://www.youtube.com/watch?v=TDGq4aeevgY)
+- Smart Contracts, Simply Explained!: [https://www.youtube.com](https://www.youtube.com/watch?v=ZE2HxTmxfrI)
 ## Blogs / Publications
 - Crypto Currently: [https://medium.com/crypto-currently](https://medium.com/crypto-currently)
 - Coin Center: [https://coincenter.org](https://coincenter.org)
